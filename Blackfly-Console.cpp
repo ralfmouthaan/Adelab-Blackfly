@@ -20,7 +20,7 @@ class clsBlackfly {
 
 protected:
 
-    std::string SerialNo = "22492860";
+    std::string SerialNo = "22421982";
     PixelFormatEnums PixelFormat = PixelFormatEnums::PixelFormat_Mono8;
     SystemPtr pSystem;
     CameraPtr pCam;
